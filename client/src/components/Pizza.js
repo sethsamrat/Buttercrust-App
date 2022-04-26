@@ -13,7 +13,7 @@ export default function Pizza({ pizza }) {
  
 
   const [quantity, setquantity] = useState(1);
-  const [varient, setvarient] = useState("small");
+  const [variant, setvariant] = useState("small");
   const [show, setShow] = useState(false);
 
   const handleClose = () => setShow(false);
@@ -22,7 +22,7 @@ export default function Pizza({ pizza }) {
   const dispatch = useDispatch()
   function addtocart()
   {
-    dispatch(addToCart(pizza , quantity , varient))
+    dispatch(addToCart(pizza , quantity , variant))
   }
 
   return (
@@ -42,16 +42,16 @@ export default function Pizza({ pizza }) {
 
       <div className="flex-container">
         <div className="w-100 m-1">
-          <p>Varients</p>
+          <p>variants</p>
           <select
             className="form-control"
-            value={varient}
+            value={variant}
             onChange={(e) => {
-              setvarient(e.target.value);
+              setvariant(e.target.value);
             }}
           >
-            {pizza.varients.map((varient) => {
-              return <option value={varient}>{varient}</option>;
+            {pizza.variants.map((variant) => {
+              return <option value={variant}>{variant}</option>;
             })}
           </select>
         </div>
@@ -75,7 +75,7 @@ export default function Pizza({ pizza }) {
       <div className="flex-container">
         <div className="m-1 w-100">
           <h1 className="mt-1">
-            Price : {pizza.prices[0][varient] * quantity} Rs/-
+            Price : {pizza.prices[0][variant] * quantity} Rs/-
           </h1>
         </div>
         <div className="m-1 w-100">
