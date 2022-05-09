@@ -1,0 +1,16 @@
+---
+- name: Deploying the application
+  hosts: all
+  tasks:
+    - name: Starting the docker service
+      service:
+        name: docker
+        state: started
+
+    - name: Copying the docker compose file
+      copy:
+        src: ./docker-compose.yml
+        dest: ./
+
+    - name: Starting the application
+      shell: docker-compose up -d

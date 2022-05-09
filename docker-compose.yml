@@ -1,7 +1,7 @@
 version: '3'
 services:
   api-server:
-    image: server
+    image: sethsamrat/server
     ports:
       - "8000:8000"
     networks:
@@ -9,7 +9,7 @@ services:
     container_name: server
     command: /usr/src/app/node_modules/.bin/nodemon server.js
   react-app:
-    image: client
+    image: sethsamrat/client
     stdin_open: true
     ports:
       - "3000:3000"
