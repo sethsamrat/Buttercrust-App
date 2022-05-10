@@ -7,7 +7,7 @@ services:
     networks:
       - mern-app
     container_name: server
-    command: /usr/src/app/node_modules/.bin/nodemon server.js
+    command: npm start
   react-app:
     image: sethsamrat/client
     stdin_open: true
