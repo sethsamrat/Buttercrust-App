@@ -1,1 +1,1 @@
-192.168.164.128 ansible_user=sethsamrat ansible_pass=Samrat2709@
+192.168.164.128 ansible_user=sethsamrat ansible_ssh_pass=Samrat2709@
