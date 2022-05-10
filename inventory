@@ -1,1 +1,1 @@
-[webserver] 3.109.211.38 ansible_user=ubuntu
+192.168.164.128 ansible_user=sethsamrat ansible_pass=Samrat2709@
