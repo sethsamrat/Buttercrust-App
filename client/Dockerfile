@@ -6,6 +6,10 @@ COPY package*.json ./
 
 RUN npm install --verbose
 
+RUN npm install jquery --save
+
+RUN npm install popper.js --save
+
 COPY . .
 
 EXPOSE 3000
