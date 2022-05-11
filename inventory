@@ -1,1 +1,7 @@
-192.168.164.128 ansible_user=sethsamrat ansible_ssh_pass=Samrat2709@
+Buttercrust_App ansible_host=43.204.112.104
+
+[Buttercrust_App_group]
+Buttercrust_App
+
+[Buttercrust_App_group:vars]
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
