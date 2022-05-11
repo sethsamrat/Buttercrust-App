@@ -1,0 +1,96 @@
+2022-05-11T15:09:34.161Z  info: Get all pizzas called
+2022-05-11T15:09:34.280Z  info: Get all pizzas successful
+2022-05-11T15:11:43.245Z  info: Register user called
+2022-05-11T15:11:43.255Z  info: User registered successfully
+2022-05-11T15:11:52.152Z  info: Signin Called
+2022-05-11T15:11:52.204Z  error: Signin Failed
+2022-05-11T15:11:59.193Z  info: Signin Called
+2022-05-11T15:11:59.248Z  info: Signin Successfull
+2022-05-11T15:11:59.961Z  info: Get all pizzas called
+2022-05-11T15:12:00.020Z  info: Get all pizzas successful
+2022-05-11T16:53:30.736Z  info: Get all pizzas called
+2022-05-11T16:53:30.980Z  info: Get all pizzas successful
+2022-05-11T16:55:50.808Z  info: Get all pizzas called
+2022-05-11T16:55:50.843Z  info: Get all pizzas successful
+2022-05-11T17:00:02.761Z  info: Get all pizzas called
+2022-05-11T17:00:02.792Z  info: Get all pizzas successful
+2022-05-11T17:02:57.580Z  info: Signin Called
+2022-05-11T17:02:57.614Z  info: Signin Successfull
+2022-05-11T17:02:58.781Z  info: Get all pizzas called
+2022-05-11T17:02:58.811Z  info: Get all pizzas successful
+2022-05-11T17:03:42.527Z  info: Get all pizzas called
+2022-05-11T17:03:42.559Z  info: Get all pizzas successful
+2022-05-11T17:04:21.813Z  info: Get all pizzas called
+2022-05-11T17:04:21.845Z  info: Get all pizzas successful
+2022-05-11T17:04:23.465Z  info: Get all pizzas called
+2022-05-11T17:04:23.496Z  info: Get all pizzas successful
+2022-05-11T17:07:24.009Z  info: Order place request
+2022-05-11T17:07:26.894Z  info: Order placed successfully
+2022-05-11T17:08:06.632Z  info: Get user orders called
+2022-05-11T17:08:06.681Z  info: Get user orders successful
+2022-05-11T17:12:36.548Z  info: user info called
+2022-05-11T17:12:36.606Z  info: user info successfull
+2022-05-11T17:12:38.009Z  info: Get all pizzas called
+2022-05-11T17:12:38.060Z  info: Get all pizzas successful
+2022-05-11T17:13:33.697Z  info: user info called
+2022-05-11T17:13:33.820Z  info: user info successfull
+2022-05-11T17:13:35.201Z  info: Get all pizzas called
+2022-05-11T17:13:35.246Z  info: Get all pizzas successful
+2022-05-11T17:13:38.707Z  info: Get all pizzas called
+2022-05-11T17:13:38.760Z  info: Get all pizzas successful
+2022-05-11T17:13:44.688Z  info: user info called
+2022-05-11T17:13:44.732Z  info: user info successfull
+2022-05-11T17:13:45.912Z  info: Get all pizzas called
+2022-05-11T17:13:45.957Z  info: Get all pizzas successful
+2022-05-11T17:14:20.587Z  info: Get all pizzas called
+2022-05-11T17:14:20.843Z  info: Get all pizzas successful
+2022-05-11T17:14:26.018Z  info: user info called
+2022-05-11T17:14:26.068Z  info: user info successfull
+2022-05-11T17:14:27.301Z  info: Get all pizzas called
+2022-05-11T17:14:27.345Z  info: Get all pizzas successful
+2022-05-11T17:15:18.329Z  info: Signin Called
+2022-05-11T17:15:18.379Z  info: Signin Successfull
+2022-05-11T17:15:19.676Z  info: Get all pizzas called
+2022-05-11T17:15:19.929Z  info: Get all pizzas successful
+2022-05-11T17:15:25.639Z  info: user info called
+2022-05-11T17:15:25.682Z  info: user info successfull
+2022-05-11T17:15:38.417Z  info: Get all pizzas called
+2022-05-11T17:15:38.462Z  info: Get all pizzas successful
+2022-05-11T17:15:39.784Z  info: user info called
+2022-05-11T17:15:39.826Z  info: user info successfull
+2022-05-11T17:16:05.256Z  info: Register user called
+2022-05-11T17:16:05.277Z  info: User registered successfully
+2022-05-11T17:16:15.758Z  info: Register user called
+2022-05-11T17:16:15.760Z  info: User registered successfully
+2022-05-11T17:16:32.300Z  info: Register user called
+2022-05-11T17:16:32.302Z  info: User registered successfully
+2022-05-11T17:16:45.302Z  info: user info called
+2022-05-11T17:16:45.352Z  info: user info successfull
+2022-05-11T17:16:51.834Z  info: user info called
+2022-05-11T17:16:51.877Z  info: user info successfull
+2022-05-11T17:16:56.970Z  info: Get all pizzas called
+2022-05-11T17:16:57.015Z  info: Get all pizzas successful
+2022-05-11T17:17:10.145Z  info: Signin Called
+2022-05-11T17:17:10.187Z  info: Signin Successfull
+2022-05-11T17:17:11.325Z  info: Get all pizzas called
+2022-05-11T17:17:11.370Z  info: Get all pizzas successful
+2022-05-11T17:17:17.117Z  info: user info called
+2022-05-11T17:17:17.161Z  info: user info successfull
+2022-05-11T17:18:00.750Z  info: Get all pizzas called
+2022-05-11T17:18:00.796Z  info: Get all pizzas successful
+2022-05-11T17:19:44.713Z  info: Get all orders called
+2022-05-11T17:19:44.765Z  info: Get all orders successful
+2022-05-11T17:19:55.631Z  info: Get all pizzas called
+2022-05-11T17:19:55.677Z  info: Get all pizzas successful
+2022-05-11T17:21:05.319Z  info: Order place request
+2022-05-11T17:21:08.250Z  info: Order placed successfully
+2022-05-11T17:21:14.666Z  info: Get user orders called
+2022-05-11T17:21:14.753Z  info: Get user orders successful
+2022-05-11T17:21:28.476Z  info: user info called
+2022-05-11T17:21:28.527Z  info: user info successfull
+2022-05-11T17:21:30.652Z  info: Get all orders called
+2022-05-11T17:21:30.696Z  info: Get all orders successful
+2022-05-11T17:21:33.201Z  info: Deliver order called
+2022-05-11T17:21:33.306Z  info: Order delivered successfully
+2022-05-11T17:21:35.278Z  info: Get all orders called
+2022-05-11T17:21:35.324Z  info: Get all orders successful
