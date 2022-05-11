@@ -2,7 +2,7 @@
 - name: Deploying the application
   hosts: all
   tasks:
-     - name: Add Docker GPG apt Key
+    - name: Add Docker GPG apt Key
       apt_key:
         url: https://download.docker.com/linux/ubuntu/gpg
         state: present
