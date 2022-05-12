@@ -14,4 +14,4 @@ db.on('error' , ()=>{
     console.log(`Mongo DB Connection failed`);
 })
 
-module.exports =mongoose
+module.exports=mongoose
